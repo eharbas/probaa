@@ -1,0 +1,43 @@
+*{
+    box-sizing: border-box;
+}
+
+.header {
+
+    
+    background-color:red;
+    padding: 20px;
+    text-align: center;
+}
+
+.header img {
+
+    position: relative;
+    height: 80px;
+    width: 100px;
+    margin-left: -1400px;
+    background:no-repeat;
+    
+}
+
+.ispodh{
+
+    overflow: hidden;
+    background-color: skyblue;
+}
+
+.ispodh a{ 
+
+    float: left;
+    display: block;
+    text-align: center;
+    padding: 15px , 18px;
+
+}
+
+.items {
+
+    width: 25%;
+    float: left;
+}
+
